@@ -1,3 +1,3 @@
 # RandomImagePicker
 
-Picks a random image from the randomimages folder
+Picks a singular or multiple images from the RandomImages folder, then places it/them in the results
